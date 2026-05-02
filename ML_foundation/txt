@@ -1,0 +1,75 @@
+MACHINE LEARNING :
+
+when a machine or a computer learn from the  past data to make smart decisions or predictions is  called machine learning
+
+machine learns from historical data
+eg ; netflix , bank 
+
+TYPES:----------------
+
+there are three types of machine learning
+
+1 Supervised learning (has both inputs and ouputs ) : ideal for tasks with labeled data where the desired output is known.
+
+2 unsupervised learning (has only ouputs) : suitable for identifying patterns in unlabeled data without explicit guidance.
+
+3 reinforcement learning :  best for training agents to make decisions through interaction with an environment.
+
+
+CORE CONCEPTS (FLOWCHART):----------
+
+1 inputs
+2 ouputs
+3 model 
+4 training
+5 testing
+6 predictions
+
+DATA PREPROCESSING FUNNEL-----------
+
+>>>raw data
+1 handle missing data
+2 encode categorical values
+3 feature scalling
+4 split data
+  prepared data <<<
+
+
+Hnadlling missing data :--------
+
+by the use of pandas top three METHODS:
+
+1 dropna
+2 fillna
+3 isnull.sum
+
+
+Encoding---------------------
+ 
+1 label encoding
+2 one_hot encoding
+
+Eg :-  
+Car brand - BMW ,Audi,Toyota
+Fuel Type - Petrol ,Diesel , CNG
+
+
+encoding helps in converting text data into numerical data like 
+BMW[1,0,0]
+Audi[0,0,1]
+Toyota[0.1.0]
+
+Feature Scalling-----------------
+
+1 standard scale 
+formula  
+ z = x-mue/sigma
+x = actual values
+m = min 
+sigma = standard deviation of the column
+
+
+2 Min Max scaler
+
+formula  
+X - Xmin / Xmax-Xmin
