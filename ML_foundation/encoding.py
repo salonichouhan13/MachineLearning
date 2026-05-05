@@ -1,6 +1,6 @@
 from sklearn.preprocessing import LabelEncoder
 import pandas as pd 
-df = pd.read_csv("PRACTICE/sample_data.csv")
+df = pd.read_csv("ML_foundation/sampledata.csv")
 
 df_label = df.copy()
 le = LabelEncoder()

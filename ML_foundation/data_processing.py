@@ -1,8 +1,8 @@
 import pandas as pd 
 data = {
-  "name" :["kanha","sargun","saloni","kajal","vinisha"],
-  "age" : [18,16,20,None ,None],
-  "salary" : [40000,50000,140000,None,None ]
+  "name" :["kanha","sargun","kajal","vinisha"],
+  "age" : [18,16,23 ,None],
+  "salary" : [10000,20000,30000,None ]
 }
 df = pd.DataFrame(data)
 print("original dataframe")

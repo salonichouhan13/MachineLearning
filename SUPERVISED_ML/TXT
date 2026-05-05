@@ -1,0 +1,14 @@
+Supervised :
+we teaches the machine by using examples which have already answerd
+
+we train the machine for 
+1 predict numbers - (marks)
+2 categories (emails)
+
+FLOWCHART ---------------
+
+1 Collect labeled data
+2 train model
+3 make predictions
+4 evaluate perfomance
+5 refine model
