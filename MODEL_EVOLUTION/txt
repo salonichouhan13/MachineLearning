@@ -1,0 +1,13 @@
+------MAE = MEAN ABSOLUTE ERROR------
+1 take the mistake diff
+2 remove the -minus sign
+3 add
+4 divide
+
+-----MSE = MEAN SQUARED ERROR-------
+1 mistake square them
+2 add 
+3 divide total
+
+----RMSE =  ROOT MEAN SQUARED ERROR------
+
