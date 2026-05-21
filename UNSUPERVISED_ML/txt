@@ -1,0 +1,108 @@
+====unsupervised learning=====
+
+Unsupervised Machine Learning is a type of Machine ,
+Learning where the model learns from data without labels.
+
+-------Types of Unsupervised Learning-------
+
+1. Clustering
+
+Similar data ko groups me divide karta hai.
+
+Example:
+Netflix similar users ko group karta hai
+Shopping apps similar customers identify karti hain
+Algorithms:
+K-Means
+DBSCAN
+Hierarchical Clustering
+
+2. Association
+
+Data me relationships find karta hai.
+
+Example:
+
+“Jo log bread kharidte hain wo butter bhi kharidte hain.”
+
+Algorithm:
+Apriori Algorithm
+
+3. Dimensionality Reduction
+
+Large data ko smaller form me convert karta hai.
+
+Example:
+
+100 features ko reduce karke 10 important features banana.
+
+Algorithms:
+PCA (Principal Component Analysis)
+t-SNE
+
+
+what is unsupeervised machine learning
+
+Unsupervised Machine Learning is a type of Machine Learning where the model learns from data without labels.
+
+Matlab:
+
+Data diya hota hai
+But usme answers/output nahi diye hote
+Machine khud patterns aur relationships find karti hai
+Simple Example
+
+Agar tumhare paas customers ka data hai:
+
+age
+salary
+shopping amount
+
+But ye nahi diya ki kaun “rich” hai ya “middle class”.
+
+To machine similar customers ko groups me divide karegi automatically.
+
+Main Goal
+Hidden patterns find karna
+Similar data ko group karna
+Data ko understand karna
+Types of Unsupervised Learning
+1. Clustering
+
+Similar data ko groups me divide karta hai.
+
+Example:
+Netflix similar users ko group karta hai
+Shopping apps similar customers identify karti hain
+Algorithms:
+K-Means
+DBSCAN
+Hierarchical Clustering
+2. Association
+
+Data me relationships find karta hai.
+
+Example:
+
+“Jo log bread kharidte hain wo butter bhi kharidte hain.”
+
+Algorithm:
+Apriori Algorithm
+3. Dimensionality Reduction
+
+Large data ko smaller form me convert karta hai.
+
+Example:
+
+100 features ko reduce karke 10 important features banana.
+
+Algorithms:
+PCA (Principal Component Analysis)
+t-SNE
+
+
+Mean: Average of all data values.
+Centroid: Center point of a cluster formed by taking the mean of all points.
+Euclidean Distance: Straight-line distance between two points.
+Spread: Measure of how far data values are scattered.
+Variance: Average squared distance of data values from the mean.
